@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://media.istockphoto.com/id/1329808536/photo/digital-transformation-concept-system-engineering-binary-code-programming.jpg?s=2048x2048&w=is&k=20&c=W0yn3J7x1PNfzCqhSTBEyARt2TZ5JBqeKYrTY8sAN5E=)
+
 <h1 align="center">Hi 👋, I'm Sanskriti Yadav</h1>
 <h3 align="center">Diving deep into the world of data with passion and precision</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHh2ZG1rbXJyeXhteTJtNDVicXY2bDd6bjQ1ZmdmODhkNTlycTV5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
